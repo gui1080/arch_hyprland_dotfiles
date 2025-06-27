@@ -1,0 +1,80 @@
+{
+    "include": [
+        "/home/guilherme_braga/.local/share/waybar/modules/tray.json",
+        "/home/guilherme_braga/.local/share/waybar/modules/image#wallpaper.json",
+        "/home/guilherme_braga/.local/share/waybar/modules/wlr-taskbar#windows.json",
+        "/home/guilherme_braga/.local/share/waybar/modules/privacy.json",
+        "/home/guilherme_braga/.local/share/waybar/modules/wlr-taskbar.json",
+        "/home/guilherme_braga/.local/share/waybar/modules/custom-dunst.jsonc",
+        "/home/guilherme_braga/.local/share/waybar/modules/custom-hyde-menu.jsonc",
+        "/home/guilherme_braga/.local/share/waybar/modules/backlight.jsonc",
+        "/home/guilherme_braga/.local/share/waybar/modules/custom-hyprsunset.jsonc",
+        "/home/guilherme_braga/.local/share/waybar/modules/custom-power.jsonc",
+        "/home/guilherme_braga/.local/share/waybar/modules/memory.jsonc",
+        "/home/guilherme_braga/.local/share/waybar/modules/custom-cpuinfo.jsonc",
+        "/home/guilherme_braga/.local/share/waybar/modules/custom-wbar.jsonc",
+        "/home/guilherme_braga/.local/share/waybar/modules/cava.jsonc",
+        "/home/guilherme_braga/.local/share/waybar/modules/custom-clipboard.jsonc",
+        "/home/guilherme_braga/.local/share/waybar/modules/hyprland-language.jsonc",
+        "/home/guilherme_braga/.local/share/waybar/modules/custom-keybindhint.jsonc",
+        "/home/guilherme_braga/.local/share/waybar/modules/image#wallpaper.jsonc",
+        "/home/guilherme_braga/.local/share/waybar/modules/pulseaudio.jsonc",
+        "/home/guilherme_braga/.local/share/waybar/modules/power-profiles-daemon.jsonc",
+        "/home/guilherme_braga/.local/share/waybar/modules/custom-gamemode.jsonc",
+        "/home/guilherme_braga/.local/share/waybar/modules/custom-cava.jsonc",
+        "/home/guilherme_braga/.local/share/waybar/modules/image#profile.jsonc",
+        "/home/guilherme_braga/.local/share/waybar/modules/custom-gpuinfo.jsonc",
+        "/home/guilherme_braga/.local/share/waybar/modules/hyprland-workspaces#kanji.jsonc",
+        "/home/guilherme_braga/.local/share/waybar/modules/wlr-taskbar#windows.jsonc",
+        "/home/guilherme_braga/.local/share/waybar/modules/custom-wallchange.jsonc",
+        "/home/guilherme_braga/.local/share/waybar/modules/custom-display.jsonc",
+        "/home/guilherme_braga/.local/share/waybar/modules/battery.jsonc",
+        "/home/guilherme_braga/.local/share/waybar/modules/custom-cliphist.jsonc",
+        "/home/guilherme_braga/.local/share/waybar/modules/idle_inhibitor.jsonc",
+        "/home/guilherme_braga/.local/share/waybar/modules/network.jsonc",
+        "/home/guilherme_braga/.local/share/waybar/modules/custom-gpuinfo#nvidia.jsonc",
+        "/home/guilherme_braga/.local/share/waybar/modules/wlr-taskbar.jsonc",
+        "/home/guilherme_braga/.local/share/waybar/modules/clock.jsonc",
+        "/home/guilherme_braga/.local/share/waybar/modules/hyprland-workspaces.jsonc",
+        "/home/guilherme_braga/.local/share/waybar/modules/custom-gpuinfo#intel.jsonc",
+        "/home/guilherme_braga/.local/share/waybar/modules/custom-github_hyde.jsonc",
+        "/home/guilherme_braga/.local/share/waybar/modules/custom-weather.jsonc",
+        "/home/guilherme_braga/.local/share/waybar/modules/tray.jsonc",
+        "/home/guilherme_braga/.local/share/waybar/modules/hyprland-window.jsonc",
+        "/home/guilherme_braga/.local/share/waybar/modules/bluetooth.jsonc",
+        "/home/guilherme_braga/.local/share/waybar/modules/cpu.jsonc",
+        "/home/guilherme_braga/.local/share/waybar/modules/network#bandwidth.jsonc",
+        "/home/guilherme_braga/.local/share/waybar/modules/mpris.jsonc",
+        "/home/guilherme_braga/.local/share/waybar/modules/custom-updates.jsonc",
+        "/home/guilherme_braga/.local/share/waybar/modules/custom-powermenu.jsonc",
+        "/home/guilherme_braga/.local/share/waybar/modules/custom-spotify.jsonc",
+        "/home/guilherme_braga/.local/share/waybar/modules/custom-sensorsinfo.jsonc",
+        "/home/guilherme_braga/.local/share/waybar/modules/hyprland-workspaces#roman.jsonc",
+        "/home/guilherme_braga/.local/share/waybar/modules/custom-swaync.jsonc",
+        "/home/guilherme_braga/.local/share/waybar/modules/custom-theme.jsonc",
+        "/home/guilherme_braga/.local/share/waybar/modules/pulseaudio#microphone.jsonc",
+        "/home/guilherme_braga/.local/share/waybar/modules/custom-gpuinfo#amd.jsonc",
+        "/home/guilherme_braga/.local/share/waybar/modules/privacy.jsonc",
+        "/home/guilherme_braga/.local/share/waybar/modules/custom-workflows.jsonc"
+    ],
+    "tray": {
+        "icon-size": 16,
+        "icon-size-multiplier": 1.6
+    },
+    "image#wallpaper": {
+        "size": 30,
+        "icon-size-multiplier": 3
+    },
+    "wlr/taskbar#windows": {
+        "icon-size": 16,
+        "icon-size-multiplier": 1.6
+    },
+    "privacy": {
+        "icon-size": 10,
+        "icon-size-multiplier": 1
+    },
+    "wlr/taskbar": {
+        "icon-size": 16,
+        "icon-size-multiplier": 1.6
+    }
+}
